@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Shared Canvas — Real-time Collaboration',
+  title: 'PlayBoard — Real-time Collaboration',
   description: 'Futuristic real-time collaborative canvas with instant sync and seamless teamwork',
 }
 
@@ -20,7 +20,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 </svg>
               </div>
               <div>
-                <h1 className="text-xl font-bold neon-text tracking-wide">SHARED CANVAS</h1>
+                <h1 className="text-xl font-bold neon-text tracking-wide">PlayBoard</h1>
                 <p className="text-xs text-green-500/60 uppercase tracking-widest">Real-time Collaboration</p>
               </div>
             </Link>

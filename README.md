@@ -1,4 +1,4 @@
-# SharedCanva
+# PlayBoard
 
 A collaborative canvas application for creating, editing, and sharing visual content in real time.
 
@@ -30,7 +30,7 @@ A collaborative canvas application for creating, editing, and sharing visual con
 ## 📁 Project Structure
 
 ```text
-SharedCanva/
+playBoard/
 ├── client/                 # Frontend application (if separated)
 ├── server/                 # Backend/realtime services (if separated)
 ├── public/                 # Static assets
@@ -115,7 +115,7 @@ Common scripts (verify and edit according to `package.json`):
 
 ## 🤝 Collaboration Model
 
-SharedCanva is designed for multi-user sessions. Typical flow:
+PlayBoard is designed for multi-user sessions. Typical flow:
 
 1. User creates or opens a canvas.
 2. Session/canvas ID is shared with collaborators.

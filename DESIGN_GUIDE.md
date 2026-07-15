@@ -1,4 +1,4 @@
-# Visual Design Guide - Shared Canvas
+# Visual Design Guide - PlayBoard
 
 ## Theme Overview
 **Style:** Futuristic Sci-Fi with Cyberpunk aesthetics

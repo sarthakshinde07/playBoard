@@ -67,7 +67,7 @@ export default function HomePage() {
 					<span className="text-green-500 text-sm font-semibold uppercase tracking-widest">Next-Gen Collaboration</span>
 				</div>
 				<h1 className="text-6xl md:text-7xl font-bold mb-6 neon-text leading-tight">
-					Real-time<br />Shared Canvas
+					Real-time<br />PlayBoard
 				</h1>
 				<p className="text-xl md:text-2xl text-gray-400 mb-8 max-w-3xl mx-auto leading-relaxed">
 					Experience seamless collaboration with instant synchronization. 
@@ -230,7 +230,7 @@ export default function HomePage() {
 						<div>
 							<h3 className="text-lg font-bold neon-text mb-4">About</h3>
 							<p className="text-gray-400 text-sm leading-relaxed">
-								Shared Canvas is a next-generation real-time collaboration platform designed for modern teams. 
+								PlayBoard is a next-generation real-time collaboration platform designed for modern teams. 
 								Experience the future of visual collaboration today.
 							</p>
 						</div>
@@ -267,7 +267,7 @@ export default function HomePage() {
 					</div>
 					<div className="border-t border-green-500/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
 						<p className="text-sm text-gray-500">
-							© 2025 Shared Canvas. Built for the future of collaboration.
+							© 2026 PlayBoard. Built for the future of collaboration.
 						</p>
 						<div className="flex items-center gap-4">
 							<div className="flex items-center gap-2 px-3 py-1.5 rounded-full border border-green-500/20 bg-green-500/5">

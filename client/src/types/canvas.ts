@@ -1,4 +1,4 @@
-// Shared canvas types for networking / serialization
+// PlayBoard types for networking / serialization
 export interface Point {
   x: number
   y: number

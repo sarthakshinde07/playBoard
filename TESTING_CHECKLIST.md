@@ -47,7 +47,7 @@
 
 #### Header
 - [ ] Logo icon visible on left
-- [ ] "SHARED CANVAS" text has neon glow
+- [ ] "PlayBoard" text has neon glow
 - [ ] Live indicator pulses with green dot
 - [ ] Version badge shows "v1.0"
 - [ ] Header is fixed and stays on top when scrolling

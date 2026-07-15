@@ -1,7 +1,7 @@
 # UI Overhaul - Neon Green & Black Theme
 
 ## Overview
-Complete visual transformation of Shared Canvas with futuristic neon green and black theme, sci-fi grid background, and smooth animations. **All backend logic and functionality preserved intact.**
+Complete visual transformation of PlayBoard with futuristic neon green and black theme, sci-fi grid background, and smooth animations. **All backend logic and functionality preserved intact.**
 
 ## Updated Files
 
@@ -20,7 +20,7 @@ Complete visual transformation of Shared Canvas with futuristic neon green and b
 ### 2. `client/src/app/layout.tsx`
 **Changes:**
 - ✅ Created futuristic header with neon logo icon
-- ✅ Added "SHARED CANVAS" branding with neon text effect
+- ✅ Added "PlayBoard" branding with neon text effect
 - ✅ Implemented live status indicator with pulse animation
 - ✅ Added version badge (v1.0)
 - ✅ Fixed header position with backdrop blur
